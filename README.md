@@ -47,3 +47,9 @@ A CD resolve o problema da sobrecarga de trabalho das equipes de operações com
 Na prática, a implantação contínua significa que as mudanças feitas por desenvolvedores em uma aplicação na nuvem podem entrar em vigor em questão de minutos, caso passem em todos os testes automatizados. Isso faz com que seja muito mais fácil receber e incorporar continuamente o feedback dos usuários. Juntas, todas essas práticas associadas de CI/CD tornam a implantação de aplicações menos arriscada, além de facilitar a liberação gradual de mudanças. 
 
 No entanto, como não há interferência manual no estágio final do pipeline antes da entrada em produção, a implantação contínua é altamente dependente de uma automação bem desenvolvida dos testes. Isso requer muito investimento inicial, já que tais testes precisam ser executados nos vários estágios do pipeline de CI/CD.
+
+## Tecnologias para implantar o CI/CD em seu projeto
+
+### [![My Skills](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev) [GitHub Actions](./github-actions/README.md)
+
+### [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) [Jenkins](./jenkins/README.md)
